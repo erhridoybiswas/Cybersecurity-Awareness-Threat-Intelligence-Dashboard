@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>SOC Dashboard</title>
+<link rel="stylesheet" href="css/style.css"/>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header>
+  <h1>SOC Threat Intelligence Dashboard</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="threat-dashboard.html">SOC Dashboard</a>
+    <a href="awareness.html">Awareness Center</a>
+    <a href="quiz.html">Quiz</a>
+    <a href="executive.html">Executive View</a>
+  </nav>
+</header>
+<main>
+  <section class="cards" id="top-cards"></section>
+
+  <section class="card">
+    <h3>IOC Search (lookup only — no network contact)</h3>
+    <input id="ioc-input" placeholder="198.51.100.25 or example.com or CVE-2026-12345" style="width:420px"/>
+    <button onclick="doSearch()">Search</button>
+    <pre id="ioc-result" style="white-space:pre-wrap;font-size:.85rem;"></pre>
+  </section>
+
+  <section class="card">
+    <h3>Filters</h3>
+    <div class="filters">
+      <select id="f-sev"><option value="">All Severities</option></select>
+      <select id="f-cat"><option value="">All Categories</option></select>
+      <select id="f-status"><option value="">All Statuses</option></select>
+      <select id="f-sort">
+        <option value="newest">Newest</option>
+        <option value="risk">Highest Risk</option>
+        <option value="confidence">Highest Confidence</option>
+        <option value="oldest">Oldest</option>
+      </select>
+      <button onclick="loadThreats()">Apply</button>
+    </div>
+  </section>
+
+  <section class="card">
+    <h3>Recent Threats</h3>
+    <table id="threat-table">
+      <thead><tr>
+        <th>ID</th><th>Name</th><th>Category</th><th>Indicator</th>
+        <th>Severity</th><th>Risk</th><th>Conf.</th>
+        <th>First Seen</th><th>Status</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section class="grid2">
+    <div class="card"><h3>Threats by Severity</h3><canvas id="c-sev"></canvas></div>
+    <div class="card"><h3>Threats by Category</h3><canvas id="c-cat"></canvas></div>
+    <div class="card"><h3>IOC Type Distribution</h3><canvas id="c-ind"></canvas></div>
+    <div class="card"><h3>Top ATT&amp;CK Tactics</h3><canvas id="c-tac"></canvas></div>
+    <div class="card"><h3>Status Distribution</h3><canvas id="c-st"></canvas></div>
+    <div class="card"><h3>Threats Over Time</h3><canvas id="c-day"></canvas></div>
+  </section>
+</main>
+<script src="js/api.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>

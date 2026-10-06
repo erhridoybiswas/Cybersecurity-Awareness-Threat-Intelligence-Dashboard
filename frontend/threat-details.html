@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Threat Detail</title>
+<link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+<header>
+  <h1>Threat Investigation View</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="threat-dashboard.html">SOC Dashboard</a>
+    <a href="awareness.html">Awareness Center</a>
+    <a href="quiz.html">Quiz</a>
+    <a href="executive.html">Executive View</a>
+  </nav>
+</header>
+<main>
+  <section class="card" id="detail"></section>
+  <section class="card">
+    <h3>Add Analyst Note</h3>
+    <textarea id="note" rows="3" style="width:100%"></textarea>
+    <button onclick="addNote()">Save Note</button>
+    <p id="note-status" style="font-size:.85rem;color:#94a3b8"></p>
+  </section>
+</main>
+<script src="js/api.js"></script>
+<script src="js/details.js"></script>
+</body>
+</html>

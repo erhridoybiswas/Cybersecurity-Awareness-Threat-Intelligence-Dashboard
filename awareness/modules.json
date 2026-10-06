@@ -1,0 +1,152 @@
+[
+  {
+    "module_id": 1,
+    "title": "Phishing Awareness",
+    "category": "Phishing",
+    "what": "Phishing is a fraudulent attempt to obtain sensitive information by impersonating a trusted entity.",
+    "why": "Phishing remains one of the most common initial access vectors.",
+    "warning_signs": ["Urgency", "Unexpected attachment", "Suspicious sender", "Credential request", "Suspicious link"],
+    "safe_practices": ["Verify via official channels", "Hover to inspect links", "Report suspicious messages"],
+    "if_it_happens": ["Do not click further", "Change affected passwords", "Report to security team"]
+  },
+  {
+    "module_id": 2,
+    "title": "Password Security",
+    "category": "Passwords",
+    "what": "Using unique, long passphrases and a password manager.",
+    "why": "Weak/reused passwords enable credential stuffing.",
+    "warning_signs": ["Short passwords", "Reuse across sites", "Sharing credentials"],
+    "safe_practices": ["Use a password manager", "Prefer long passphrases", "Never reuse passwords"],
+    "if_it_happens": ["Rotate affected passwords", "Enable MFA", "Check for suspicious activity"]
+  },
+  {
+    "module_id": 3,
+    "title": "Multi-Factor Authentication (MFA)",
+    "category": "MFA",
+    "what": "Adding a second factor beyond a password.",
+    "why": "MFA blocks most credential-based attacks.",
+    "warning_signs": ["Unexpected MFA prompts", "Unknown device approvals"],
+    "safe_practices": ["Enable MFA everywhere", "Prefer authenticator apps/passkeys", "Never approve unknown prompts"],
+    "if_it_happens": ["Deny the prompt", "Change password", "Report to security"]
+  },
+  {
+    "module_id": 4,
+    "title": "Social Engineering",
+    "category": "Social Engineering",
+    "what": "Manipulating people into revealing information or performing actions.",
+    "why": "Attacks humans, not machines.",
+    "warning_signs": ["Authority pressure", "Urgency", "Unusual requests"],
+    "safe_practices": ["Verify identity", "Slow down", "Follow policy for sensitive requests"],
+    "if_it_happens": ["Stop communication", "Report to security"]
+  },
+  {
+    "module_id": 5,
+    "title": "Safe Browsing",
+    "category": "Safe Browsing",
+    "what": "Avoiding malicious sites, downloads, and browser extensions.",
+    "why": "Drive-by downloads and fake sites are common.",
+    "warning_signs": ["Unexpected pop-ups", "Certificate warnings", "Unusual download prompts"],
+    "safe_practices": ["Keep browsers updated", "Avoid untrusted sites", "Use reputable extensions"],
+    "if_it_happens": ["Close the browser", "Run a security scan", "Report the URL"]
+  },
+  {
+    "module_id": 6,
+    "title": "Secure Wi-Fi",
+    "category": "Wi-Fi",
+    "what": "Using trusted networks and encryption.",
+    "why": "Open networks can expose traffic.",
+    "warning_signs": ["Open hotspots", "No password", "Suspicious captive portals"],
+    "safe_practices": ["Use WPA3/WPA2", "Use a VPN on public Wi-Fi", "Avoid sensitive logins on open networks"],
+    "if_it_happens": ["Disconnect", "Change passwords used", "Report"]
+  },
+  {
+    "module_id": 7,
+    "title": "Software Updates",
+    "category": "Updates",
+    "what": "Patching software promptly.",
+    "why": "Many attacks target known, patched vulnerabilities.",
+    "warning_signs": ["Disabled auto-updates", "Delayed patching"],
+    "safe_practices": ["Enable auto-updates", "Patch OS, browser, apps"],
+    "if_it_happens": ["Patch immediately", "Scan for compromise"]
+  },
+  {
+    "module_id": 8,
+    "title": "Ransomware Awareness",
+    "category": "Ransomware",
+    "what": "Malware that encrypts data and demands payment.",
+    "why": "Causes major operational disruption.",
+    "warning_signs": ["Files renamed", "Ransom note", "Unusual disk activity"],
+    "safe_practices": ["Backups (offline)", "Least privilege", "Email security", "Endpoint protection", "Segmentation"],
+    "if_it_happens": ["Isolate affected systems", "Notify IR team", "Do not pay without guidance"]
+  },
+  {
+    "module_id": 9,
+    "title": "USB / Removable Media Safety",
+    "category": "USB",
+    "what": "Risks of unknown USB devices.",
+    "why": "USB drops are a known attack vector.",
+    "warning_signs": ["Found USBs", "Unknown devices"],
+    "safe_practices": ["Do not plug in unknown USBs", "Use endpoint controls"],
+    "if_it_happens": ["Disconnect", "Report to security"]
+  },
+  {
+    "module_id": 10,
+    "title": "Data Privacy",
+    "category": "Privacy",
+    "what": "Minimizing and protecting personal data.",
+    "why": "Reduces impact of breaches.",
+    "warning_signs": ["Oversharing", "Unencrypted storage"],
+    "safe_practices": ["Share minimally", "Encrypt sensitive data"],
+    "if_it_happens": ["Report potential exposure"]
+  },
+  {
+    "module_id": 11,
+    "title": "Mobile Security",
+    "category": "Mobile",
+    "what": "Securing phones and tablets.",
+    "why": "Mobile devices hold sensitive data.",
+    "warning_signs": ["Unverified apps", "Jailbreak/root"],
+    "safe_practices": ["Install from official stores", "Enable screen lock", "Keep OS updated"],
+    "if_it_happens": ["Remove suspicious apps", "Change passwords"]
+  },
+  {
+    "module_id": 12,
+    "title": "Remote Work Security",
+    "category": "Remote Work",
+    "what": "Securing work from outside the office.",
+    "why": "Different threat surface than office.",
+    "warning_signs": ["Shared home devices", "Weak home Wi-Fi"],
+    "safe_practices": ["Use company VPN", "Strong Wi-Fi password", "Separate work/personal"],
+    "if_it_happens": ["Report to IT", "Disconnect if compromised"]
+  },
+  {
+    "module_id": 13,
+    "title": "Cloud Account Security",
+    "category": "Cloud",
+    "what": "Protecting cloud identities and data.",
+    "why": "Cloud misconfigurations can expose data.",
+    "warning_signs": ["Overly permissive roles", "Public buckets"],
+    "safe_practices": ["Least privilege", "MFA", "Review permissions"],
+    "if_it_happens": ["Revoke sessions", "Rotate credentials"]
+  },
+  {
+    "module_id": 14,
+    "title": "Incident Reporting",
+    "category": "Reporting",
+    "what": "Telling security when something looks off.",
+    "why": "Early reporting limits impact.",
+    "warning_signs": ["Suspicious emails", "Unexpected pop-ups", "Lost devices"],
+    "safe_practices": ["Know your reporting channel", "Report fast", "Preserve evidence"],
+    "if_it_happens": ["Report immediately", "Do not investigate alone"]
+  },
+  {
+    "module_id": 15,
+    "title": "AI-Enabled Scam Awareness",
+    "category": "AI Scams",
+    "what": "Scams using AI-generated text, voice, or video.",
+    "why": "AI increases scam realism.",
+    "warning_signs": ["Urgency + unusual request", "Voice/video mismatch", "Too-perfect writing"],
+    "safe_practices": ["Verify via a second channel", "Be skeptical of urgency"],
+    "if_it_happens": ["Stop contact", "Report to security"]
+  }
+]

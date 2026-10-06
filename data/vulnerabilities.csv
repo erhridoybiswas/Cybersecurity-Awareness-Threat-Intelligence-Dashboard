@@ -1,0 +1,121 @@
+cve_id,product_category,severity,cvss_score,published_date,patch_available,exploitation_status_demo,description
+CVE-2026-10001,Web Server,LOW,2.1,2026-01-16,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10002,Email Gateway,MEDIUM,6.6,2026-02-12,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10003,Operating System,MEDIUM,6.7,2026-06-15,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10004,VPN Appliance,LOW,2.9,2026-01-18,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10005,Database,LOW,2.5,2026-05-24,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10006,Container Runtime,LOW,2.0,2026-02-02,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10007,Container Runtime,LOW,3.1,2026-02-12,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10008,Operating System,HIGH,7.3,2026-02-25,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10009,Email Gateway,HIGH,8.2,2026-03-20,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10010,Email Gateway,CRITICAL,9.1,2026-05-24,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10011,Database,HIGH,7.2,2026-03-24,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10012,Database,LOW,2.7,2026-02-06,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10013,Database,MEDIUM,4.9,2026-05-10,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10014,Email Gateway,HIGH,8.8,2026-05-12,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10015,Email Gateway,MEDIUM,5.2,2026-06-15,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10016,Database,LOW,2.7,2026-01-07,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10017,Database,CRITICAL,9.7,2026-05-05,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10018,Container Runtime,LOW,2.1,2026-02-08,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10019,Database,MEDIUM,4.2,2026-06-03,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10020,Database,HIGH,8.9,2026-03-18,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10021,VPN Appliance,MEDIUM,5.7,2026-06-10,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10022,Operating System,LOW,2.3,2026-06-02,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10023,VPN Appliance,MEDIUM,4.6,2026-05-19,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10024,Database,MEDIUM,6.5,2026-01-31,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10025,VPN Appliance,LOW,3.3,2026-03-28,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10026,VPN Appliance,HIGH,7.9,2026-05-31,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10027,Database,HIGH,8.7,2026-02-14,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10028,Database,MEDIUM,6.4,2026-04-12,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10029,Web Server,MEDIUM,6.3,2026-05-07,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10030,Database,HIGH,8.6,2026-06-13,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10031,Web Server,MEDIUM,5.7,2026-01-21,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10032,Container Runtime,HIGH,8.9,2026-06-20,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10033,Email Gateway,MEDIUM,4.6,2026-06-18,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10034,Container Runtime,MEDIUM,4.8,2026-07-14,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10035,Web Server,MEDIUM,5.4,2026-06-29,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10036,Container Runtime,HIGH,8.5,2026-01-04,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10037,Container Runtime,MEDIUM,4.7,2026-05-24,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10038,Operating System,HIGH,8.2,2026-02-09,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10039,Database,LOW,3.5,2026-06-15,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10040,Web Server,HIGH,7.4,2026-02-04,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10041,Web Server,MEDIUM,6.6,2026-04-11,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10042,VPN Appliance,MEDIUM,4.5,2026-07-19,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10043,VPN Appliance,HIGH,7.0,2026-05-02,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10044,Database,HIGH,8.7,2026-05-03,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10045,Email Gateway,MEDIUM,5.7,2026-01-14,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10046,Container Runtime,MEDIUM,5.5,2026-05-18,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10047,Container Runtime,LOW,2.8,2026-01-15,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10048,Operating System,HIGH,7.5,2026-03-05,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10049,Container Runtime,MEDIUM,5.7,2026-07-17,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10050,VPN Appliance,LOW,2.1,2026-07-18,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10051,Email Gateway,HIGH,7.4,2026-02-19,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10052,Database,HIGH,8.2,2026-05-03,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10053,Operating System,MEDIUM,4.0,2026-05-23,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10054,Operating System,HIGH,8.8,2026-03-30,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10055,VPN Appliance,HIGH,7.8,2026-02-05,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10056,VPN Appliance,MEDIUM,5.3,2026-04-09,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10057,Operating System,HIGH,7.8,2026-07-15,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10058,Database,CRITICAL,9.9,2026-05-03,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10059,Database,MEDIUM,5.2,2026-05-02,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10060,Web Server,LOW,2.4,2026-02-14,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10061,Container Runtime,MEDIUM,4.1,2026-03-09,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10062,Operating System,LOW,3.9,2026-06-09,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10063,Container Runtime,MEDIUM,6.7,2026-06-10,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10064,VPN Appliance,MEDIUM,5.6,2026-01-31,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10065,Container Runtime,LOW,2.3,2026-07-10,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10066,Operating System,HIGH,8.1,2026-01-11,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10067,Container Runtime,CRITICAL,9.3,2026-01-28,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10068,Operating System,LOW,2.8,2026-06-15,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10069,Operating System,MEDIUM,6.3,2026-04-04,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10070,Email Gateway,MEDIUM,6.5,2026-02-15,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10071,Container Runtime,LOW,3.5,2026-02-08,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10072,Database,MEDIUM,6.9,2026-04-28,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10073,Database,LOW,2.7,2026-01-02,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10074,Operating System,HIGH,7.5,2026-06-28,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10075,Email Gateway,CRITICAL,9.5,2026-04-08,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10076,Web Server,MEDIUM,6.4,2026-06-01,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10077,Web Server,LOW,3.2,2026-03-08,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10078,VPN Appliance,MEDIUM,5.3,2026-05-01,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10079,Container Runtime,LOW,3.6,2026-03-20,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10080,Database,HIGH,7.6,2026-05-17,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10081,Web Server,MEDIUM,6.0,2026-04-11,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10082,Container Runtime,CRITICAL,9.4,2026-05-04,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10083,Container Runtime,MEDIUM,4.5,2026-03-22,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10084,Web Server,MEDIUM,4.3,2026-06-08,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10085,Container Runtime,MEDIUM,4.5,2026-01-18,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10086,Container Runtime,HIGH,7.9,2026-01-08,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10087,Email Gateway,HIGH,7.3,2026-04-18,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10088,Operating System,MEDIUM,4.5,2026-03-18,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10089,Database,CRITICAL,9.3,2026-07-12,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10090,Database,HIGH,7.0,2026-07-15,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10091,VPN Appliance,MEDIUM,6.6,2026-05-25,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10092,Database,LOW,3.4,2026-01-24,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10093,Email Gateway,MEDIUM,6.0,2026-04-26,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10094,Container Runtime,HIGH,8.3,2026-06-26,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10095,VPN Appliance,MEDIUM,6.7,2026-01-28,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10096,Container Runtime,LOW,3.9,2026-03-08,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10097,Email Gateway,HIGH,7.7,2026-02-15,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10098,Container Runtime,MEDIUM,6.1,2026-02-16,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10099,Operating System,MEDIUM,4.6,2026-01-20,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10100,Container Runtime,CRITICAL,10.0,2026-04-30,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10101,VPN Appliance,MEDIUM,4.7,2026-06-02,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10102,Email Gateway,HIGH,8.6,2026-02-04,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10103,Email Gateway,LOW,2.4,2026-01-26,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10104,Web Server,HIGH,7.1,2026-02-03,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10105,Web Server,CRITICAL,9.7,2026-07-19,NO,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10106,VPN Appliance,LOW,3.9,2026-03-12,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10107,Operating System,MEDIUM,4.2,2026-01-01,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10108,Container Runtime,CRITICAL,10.0,2026-04-07,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10109,Operating System,HIGH,7.8,2026-03-13,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10110,Email Gateway,MEDIUM,5.2,2026-06-01,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10111,VPN Appliance,HIGH,8.5,2026-02-08,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10112,Web Server,HIGH,7.8,2026-03-10,YES,THEORETICAL,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10113,Web Server,HIGH,8.8,2026-05-02,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10114,Operating System,LOW,3.6,2026-05-10,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10115,Container Runtime,MEDIUM,4.1,2026-06-18,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10116,Operating System,MEDIUM,4.9,2026-01-14,YES,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10117,VPN Appliance,CRITICAL,9.9,2026-03-15,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10118,VPN Appliance,CRITICAL,9.0,2026-01-10,NO,OBSERVED_IN_WILD,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10119,Email Gateway,CRITICAL,9.5,2026-01-12,NO,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
+CVE-2026-10120,Email Gateway,CRITICAL,9.7,2026-06-06,YES,NO_KNOWN,SYNTHETIC vulnerability record for defensive awareness only. Not a real CVE.
